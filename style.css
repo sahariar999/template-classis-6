@@ -1,0 +1,100 @@
+.menu{
+    background-color: rgb(9, 9, 84);
+    color: #ffffff;
+    text-transform: capitalize; 
+    text-align: center;
+
+}
+.supo{
+    font-size: 30px;
+    color: rgb(247, 26, 26);
+    text-transform: capitalize;
+}
+.supt{
+    color: rgb(238, 37, 37);
+    font-size: 30px;
+}
+.bannerh{
+    color: white;
+    background-color: green;
+    font-style: italic;
+    font-size: 15px; 
+    text-align: center;
+}
+
+.footer{
+background-color: rgb(155, 56, 89);
+font-size:50px ;
+text-align: center;
+text-transform: capitalize;
+} 
+p{
+    font-style: italic;
+    background-color: rgb(250, 247, 247);
+}
+.heading-service{
+    font-size: 50px;
+    background-color: rgb(150, 54, 86);
+    text-align: center;
+    text-transform: capitalize;
+}
+.web{
+    font-size: 25px;
+}
+.tyu{
+height: 105px;
+width: 105px;
+}
+.uyt{
+    height: 105px;
+width: 105px;
+
+}
+.iud{
+    height: 105px;
+width: 105px;
+}
+.logo{
+    text-align: center;
+}
+
+.heading-contact{
+    font-size: 50px;
+    background-color: rgb(47, 47, 241);
+    text-align: center;
+ margin-top: 15px;
+
+}
+.form{
+    text-align: center;
+    margin-bottom: 8px;
+   
+  
+}
+
+.last-container{
+    background-color: rgb(152, 152, 223);
+    text-align: center;
+      margin-top: -45px;
+}
+
+.last-footer{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+*{
+    padding: auto;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.allll{
+    width: 1024px;
+    height: 700px;
+    background-color: rgb(252, 251, 249);
+}
